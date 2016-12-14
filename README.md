@@ -1,5 +1,8 @@
 # LaboonChess [CS1530 Term Project (Fall 2016)]  
-CS1530 group repository  
+Custom JAVA chess program, team-built using software engineering techniques based around the AGILE/SCRUM methodology. The stakeholder was Bill Laboon; with all specifications, paper prototypes, and user stories based around the wants and needs of Mr. Laboon.
+
+- AGILE / SCRUM methodology
+- Stakeholder interactions
 
 ## Group Members  
 - David Bickford ([drb56](https://github.com/drb56))  
