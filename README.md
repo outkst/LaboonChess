@@ -1,4 +1,4 @@
-# CS1530 Term Project (Fall 2016)  
+# LaboonChess [CS1530 Term Project] (Fall 2016)  
 CS1530 group repository  
 
 ## Group Members  
